@@ -1,3 +1,3 @@
 # CS3300
 For my CS3300 Class broh
-<iframe src="https://giphy.com/embed/10AoZDUmPrhguQ" width="450" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/compilation-10AoZDUmPrhguQ">via GIPHY</a></p>
+![giphy](https://user-images.githubusercontent.com/89280108/194777741-895a5874-292a-4e42-ac19-bcc72ec862de.gif)
