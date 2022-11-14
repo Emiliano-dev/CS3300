@@ -31,6 +31,8 @@ gem "jbuilder"
 gem 'tzinfo'
 gem 'tzinfo-data'
 
+gem 'devise'
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 group :production do

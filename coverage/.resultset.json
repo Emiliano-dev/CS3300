@@ -1,6 +1,23 @@
 {
   "RSpec": {
     "coverage": {
+      "/root/CS3300/app/models/user.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/root/CS3300/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
       "/root/CS3300/app/helpers/application_helper.rb": {
         "lines": [
           1,
@@ -100,13 +117,6 @@
           null
         ]
       },
-      "/root/CS3300/app/models/application_record.rb": {
-        "lines": [
-          1,
-          1,
-          null
-        ]
-      },
       "/root/CS3300/app/channels/application_cable/channel.rb": {
         "lines": [
           0,
@@ -151,6 +161,6 @@
         }
       }
     },
-    "timestamp": 1667347223
+    "timestamp": 1668126883
   }
 }
